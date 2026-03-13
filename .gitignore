@@ -1,0 +1,8 @@
+dataset/data/
+model/checkpoints/
+benchmark/results/
+__pycache__/
+venv/
+logs/
+enie/
+*.pyc
